@@ -11,3 +11,8 @@
 ::-webkit-scrollbar {
   display: none;
 }
+
+@theme {
+  --color-primary: #00deb6;
+}
+
